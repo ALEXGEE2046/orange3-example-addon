@@ -37,4 +37,4 @@ or
 
 The new widget appears in the toolbox bar under the section Example.
 
-![screenshot](https://github.com/biolab/orange3-example-addon/blob/master/screenshot.png)
+![screenshot](https://github.com/ALEXGEE2046/orange3-example-addon/blob/master/screenshot.png)
